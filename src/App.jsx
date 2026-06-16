@@ -67,7 +67,7 @@ export default function DashboardAsociacion() {
               Asociación anterior entregó fondos de: <span className="fw-semibold">${FONDOS_ANTERIORES.toFixed(2)}</span>
             </p>
             <small className="d-block mt-1" style={{ fontSize: '12px', color: '#6f6f6f' }}>
-              Corte de caja oficial validado a Abril del 2026
+              Corte de caja oficial validado a Abril del 2026  martes 09/6/2026 8:03
             </small>
           </div>
           <div className="col-md-4 text-md-end">
