@@ -222,6 +222,39 @@ export default function DashboardAsociacion() {
           </div>
         </div>
       </div>
+
+        <footer className="container-fluid mt-5 px-0">
+          {/* Línea divisoria continua de borde a borde */}
+          <div style={{ borderTop: '1px solid #e0e0e0', width: '100%' }}></div>
+          
+          {/* Contenedor del contenido alineado al grid general */}
+          <div className="px-4 px-lg-5 py-4 d-flex justify-content-end align-items-center">
+            <div className="d-flex align-items-center">
+              <span 
+                style={{ 
+                  fontSize: '12px', 
+                  letterSpacing: '0.16px', 
+                  color: '#8d8d8d',
+                  fontFamily: '"IBM Plex Sans", sans-serif'
+                }}
+              >
+                Elaborado por:&nbsp;
+              </span>
+              <span 
+                className="fw-medium text-dark" 
+                style={{ 
+                  fontSize: '12px', 
+                  letterSpacing: '0.16px',
+                  fontFamily: '"IBM Plex Sans", sans-serif'
+                }}
+              >
+                Jorge Santamaría
+              </span>
+            </div>
+          </div>
+        </footer>
+
     </div>
+    
   );
 }
