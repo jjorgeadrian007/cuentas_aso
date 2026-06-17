@@ -52,8 +52,6 @@ export default function DashboardAsociacion() {
       </header>
 
 
-      
-
       <div className="mb-2" style={{ backgroundColor: '#f4f4f4', padding: '24px' }}>
         <div className="row align-items-center g-3">
           <div className="col-md-8">
@@ -127,7 +125,7 @@ export default function DashboardAsociacion() {
                   Reconocimiento a la Gestión y Cooperación Institucional
                 </h3>
                 <p className="m-0 text-secondary" style={{ fontSize: '14px', lineHeight: '1.50', color: '#525252' }}>
-                  La Asociación de Empleados y Trabajadores expresa su sincero agradecimiento a la gestión realizada por la <strong>AsoProfi de la Facultad de Filosofía, Letras y Ciencias de la Educación</strong>, y de manera especial a la <strong>Dra. Jittomy Díaz</strong>, por su valiosa colaboración y apertura para coordinar y hacer posible la recepción efectiva de los aportes mensuales de los socios. Este esfuerzo conjunto fortalece la transparencia y la continuidad financiera de nuestra organización.
+                  La Asociación de Empleados y Trabajadores expresa su sincero agradecimiento a la gestión realizada por la <strong>AsoProfi de la Facultad de Filosofía, Letras y Ciencias de la Educación</strong>, y de manera especial a la <strong>Dra. Jittomy Díaz</strong>, por su valiosa colaboración y apertura para coordinar y hacer posible la recepción efectiva de los aportes mensuales de los socios. Este esfuerzo conjunto fortalece la transparencia y la continuidad financiera de nuestra Asociación.
                 </p>
               </div>
             </div>
