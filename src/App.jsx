@@ -86,52 +86,6 @@ export default function DashboardAsociacion() {
         </div>
       </div>
 
-      {/* --- SECCIÓN DE NOTICIAS E INFORMES --- */}
-
-      <div className="row g-5 mt-2">
-        <div className="col-12">
-          {/* Encabezado con el acento IBM Blue 60 */}
-          <div className="d-flex justify-content-between align-items-center mb-4 pb-2" style={{ borderBottom: '2px solid #0f62fe' }}>
-            <h2 
-              className="text-uppercase m-0 fw-bold tracking-wider" 
-              style={{ fontSize: '14px', color: '#0f62fe' }}
-            >
-              Noticias e Información Institucional
-            </h2>
-            <span className="badge bg-light text-muted border rounded-pill fw-normal">Actualizado</span>
-          </div>
-
-          {/* Bloque de Noticia Plana (Superficie Gray 10) */}
-          <div className="p-4" style={{ backgroundColor: '#f4f4f4' }}>
-            <div className="row g-3 align-items-start">
-              {/* Columna de Metadatos */}
-              <div className="col-md-2">
-                <span 
-                  className="text-uppercase fw-semibold d-block mb-1" 
-                  style={{ fontSize: '11px', letterSpacing: '0.32px', color: '#0f62fe' }}
-                >
-                  Agradecimiento
-                </span>
-                <span 
-                  style={{ fontSize: '12px', letterSpacing: '0.32px', color: '#6f6f6f', fontFamily: 'monospace' }}
-                >
-                  17/06/2026
-                </span>
-              </div>
-
-              {/* Columna de Contenido */}
-              <div className="col-md-10">
-                <h3 className="h6 fw-semibold text-dark mb-2" style={{ letterSpacing: '0.16px' }}>
-                  Reconocimiento a la Gestión y Cooperación Institucional
-                </h3>
-                <p className="m-0 text-secondary" style={{ fontSize: '14px', lineHeight: '1.50', color: '#525252' }}>
-                  La Asociación de Empleados y Trabajadores expresa su sincero agradecimiento a la gestión realizada por la <strong>AsoProfi de la Facultad de Filosofía, Letras y Ciencias de la Educación</strong>, y de manera especial a la <strong>Dra. Jittomy Díaz</strong>, por su valiosa colaboración y apertura para coordinar y hacer posible la recepción efectiva de los aportes mensuales de los socios. Este esfuerzo conjunto fortalece la transparencia y la continuidad financiera de nuestra Asociación.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
 
 
 
@@ -267,6 +221,55 @@ export default function DashboardAsociacion() {
           </div>
         </div>
       </div>
+
+
+            {/* --- SECCIÓN DE NOTICIAS E INFORMES --- */}
+
+      <div className="row g-5 mt-2">
+        <div className="col-12">
+          {/* Encabezado con el acento IBM Blue 60 */}
+          <div className="d-flex justify-content-between align-items-center mb-4 pb-2" style={{ borderBottom: '2px solid #0f62fe' }}>
+            <h2 
+              className="text-uppercase m-0 fw-bold tracking-wider" 
+              style={{ fontSize: '14px', color: '#0f62fe' }}
+            >
+              Noticias e Información Institucional
+            </h2>
+            <span className="badge bg-light text-muted border rounded-pill fw-normal">Actualizado</span>
+          </div>
+
+          {/* Bloque de Noticia Plana (Superficie Gray 10) */}
+          <div className="p-4" style={{ backgroundColor: '#f4f4f4' }}>
+            <div className="row g-3 align-items-start">
+              {/* Columna de Metadatos */}
+              <div className="col-md-2">
+                <span 
+                  className="text-uppercase fw-semibold d-block mb-1" 
+                  style={{ fontSize: '11px', letterSpacing: '0.32px', color: '#0f62fe' }}
+                >
+                  Agradecimiento
+                </span>
+                <span 
+                  style={{ fontSize: '12px', letterSpacing: '0.32px', color: '#6f6f6f', fontFamily: 'monospace' }}
+                >
+                  17/06/2026
+                </span>
+              </div>
+
+              {/* Columna de Contenido */}
+              <div className="col-md-10">
+                <h3 className="h6 fw-semibold text-dark mb-2" style={{ letterSpacing: '0.16px' }}>
+                  Reconocimiento a la Gestión y Cooperación Institucional
+                </h3>
+                <p className="m-0 text-secondary" style={{ fontSize: '14px', lineHeight: '1.50', color: '#525252' }}>
+                  La Asociación de Empleados y Trabajadores expresa su sincero agradecimiento a la gestión realizada por la <strong>AsoProfi de la Facultad de Filosofía, Letras y Ciencias de la Educación</strong>, y de manera especial a la <strong>Dra. Jittomy Díaz</strong>, por su valiosa colaboración y apertura para coordinar y hacer posible la recepción efectiva de los aportes mensuales de los socios. Este esfuerzo conjunto fortalece la transparencia y la continuidad financiera de nuestra Asociación.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
 
         <footer className="container-fluid mt-5 px-0">
           {/* Línea divisoria continua de borde a borde */}
