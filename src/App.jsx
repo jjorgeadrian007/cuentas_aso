@@ -8,14 +8,21 @@ export default function DashboardAsociacion() {
   const [ingresos] = useState([
     { id: 1, fecha: "16/06/2026", nombre: "Aportes Isabel Dávila Junio, Julio, Agosto", valor: 30.00 },
     { id: 2, fecha: "19/06/2026", nombre: "Aportes Darwin Puetate Enero a Junio", valor: 60.00 },
+    { id: 3, fecha: "19/06/2026", nombre: "Aportes no socios (2 pendiente)", valor: 32.00 },
 
   ]);
 
   const [egresos] = useState([
-    { id: 1, fecha: "19/06/2026", nombre: "Servilletas", valor: 1.00 },
+    { id: 1, fecha: "19/06/2026", nombre: "Servilletas (100)", valor: 1.00 },
     { id: 2, fecha: "19/06/2026", nombre: "Recuerdos porta-celulares", valor: 111.00 },
     { id: 3, fecha: "19/06/2026", nombre: "Bebidas", valor: 33.12 },
     { id: 4, fecha: "19/06/2026", nombre: "Fritadas", valor: 252.00 },
+    { id: 5, fecha: "19/06/2026", nombre: "Brindis (6 champagne)", valor: 30.00 },
+    { id: 6, fecha: "19/06/2026", nombre: "Vasos (100 vasos colereos, 100 brindis)", valor: 2.50 },
+    { id: 7, fecha: "19/06/2026", nombre: "Flores", valor: 4.00 },
+    { id: 8, fecha: "19/06/2026", nombre: "Chupetes", valor: 2.00 },
+    { id: 9, fecha: "19/06/2026", nombre: "Hora loca adornos", valor: 8.00 },
+
 
   ]);
 
