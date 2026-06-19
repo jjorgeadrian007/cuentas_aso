@@ -7,11 +7,14 @@ export default function DashboardAsociacion() {
   // Carga inicial de datos estructurados como objetos
   const [ingresos] = useState([
     { id: 1, fecha: "16/06/2026", nombre: "Aportes Isabel Dávila Junio, Julio, Agosto", valor: 30.00 },
+    { id: 2, fecha: "19/06/2026", nombre: "Aportes Darwin Puetate Enero a Junio", valor: 60.00 },
 
   ]);
 
   const [egresos] = useState([
-    { id: 1, fecha: "16/06/2026", nombre: "Compra de insumos", valor: 0.00 },
+    { id: 1, fecha: "19/06/2026", nombre: "Servilletas", valor: 1.00 },
+    { id: 2, fecha: "19/06/2026", nombre: "Recuerdos porta-celulares", valor: 111.00 },
+    { id: 3, fecha: "19/06/2026", nombre: "Bebidas", valor: 33.12 },
 
   ]);
 
@@ -223,7 +226,7 @@ export default function DashboardAsociacion() {
       </div>
 
 
-            {/* --- SECCIÓN DE NOTICIAS E INFORMES --- */}
+       {/* --- SECCIÓN DE NOTICIAS E INFORMES --- */}
 
       <div className="row g-5 mt-2">
         <div className="col-12">
