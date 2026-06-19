@@ -15,6 +15,7 @@ export default function DashboardAsociacion() {
     { id: 1, fecha: "19/06/2026", nombre: "Servilletas", valor: 1.00 },
     { id: 2, fecha: "19/06/2026", nombre: "Recuerdos porta-celulares", valor: 111.00 },
     { id: 3, fecha: "19/06/2026", nombre: "Bebidas", valor: 33.12 },
+    { id: 4, fecha: "19/06/2026", nombre: "Fritadas", valor: 252.00 },
 
   ]);
 
