@@ -10,6 +10,7 @@ export default function DashboardAsociacion() {
     { id: 2, fecha: "19/06/2026", nombre: "Aportes Darwin Puetate Enero a Junio", valor: 60.00 },
     /* { id: 3, fecha: "19/06/2026", nombre: "Aportes no socios (1 pendiente)", valor: 36.00 }, */
     { id: 3, fecha: "19/06/2026", nombre: "Aportes no socios", valor: 40.00 },
+    { id: 4, fecha: "25/06/2026", nombre: "Evento Futbol Ec vs Alem", valor: 75.05 },
 
   ]);
 
