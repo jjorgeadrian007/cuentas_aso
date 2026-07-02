@@ -11,8 +11,8 @@ export default function DashboardAsociacion() {
     /* { id: 3, fecha: "19/06/2026", nombre: "Aportes no socios (1 pendiente)", valor: 36.00 }, */
     { id: 3, fecha: "19/06/2026", nombre: "Aportes no socios", valor: 40.00 },
     { id: 4, fecha: "25/06/2026", nombre: "Evento Futbol Ec vs Alem", valor: 75.05 },
-    { id: 5, fecha: "01/07/2026", nombre: "Aporte Suarez Espinosa Ivonne (Febrero Marzo)", valor: 20.00 },
-    { id: 6, fecha: "01/07/2026", nombre: "Aporte Tonato Zapata John Jairo (Abril, Mayo Junio)", valor: 30.00 },s
+    { id: 5, fecha: "01/07/2026", nombre: "Aporte Suarez Espinosa Ivonne (Febrero Marzo 2026)", valor: 20.00 },
+    { id: 6, fecha: "01/07/2026", nombre: "Aporte Tonato Zapata John Jairo (Abril, Mayo Junio 2026)", valor: 30.00 },
 
   ]);
 
