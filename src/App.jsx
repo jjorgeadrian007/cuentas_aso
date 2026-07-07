@@ -13,6 +13,7 @@ export default function DashboardAsociacion() {
     { id: 4, fecha: "25/06/2026", nombre: "Evento Futbol Ec vs Alem", valor: 75.05 },
     { id: 5, fecha: "01/07/2026", nombre: "Aporte Suarez Espinosa Ivonne (Febrero Marzo 2026)", valor: 20.00 },
     { id: 6, fecha: "01/07/2026", nombre: "Aporte Tonato Zapata John Jairo (Abril, Mayo Junio 2026)", valor: 30.00 },
+    { id: 7, fecha: "06/07/2026", nombre: "Ingreso por Cafetería", valor: 56.19 },
 
   ]);
 
@@ -81,7 +82,7 @@ export default function DashboardAsociacion() {
               Asociación anterior entregó fondos de: <span className="fw-semibold">${FONDOS_ANTERIORES.toFixed(2)}</span>
             </p>
             <small className="d-block mt-1" style={{ fontSize: '12px', color: '#6f6f6f' }}>
-              Corte de caja oficial validado al  lunes 01 de julio de 2026 a las 18:03
+              Corte de caja oficial validado al  lunes 06 de julio de 2026 a las 18:03
             </small>
           </div>
           <div className="col-md-4 text-md-end">
