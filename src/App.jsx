@@ -28,6 +28,7 @@ export default function DashboardAsociacion() {
     { id: 8, fecha: "19/06/2026", nombre: "Chupetes", valor: 2.00 },
     { id: 9, fecha: "19/06/2026", nombre: "Hora loca adornos", valor: 8.00 },
      { id: 10, fecha: "19/06/2026", nombre: "Sonido", valor: 10.00 },
+     { id: 11, fecha: "10/07/2026", nombre: "Compra bebidas eleciones (190)", valor: 44.00 },
 
 
   ]);
@@ -313,7 +314,7 @@ export default function DashboardAsociacion() {
                   fontFamily: '"IBM Plex Sans", sans-serif'
                 }}
               >
-                Jorge Santamaría
+                Jorge Santamaría Muñoz
               </span>
             </div>
           </div>
