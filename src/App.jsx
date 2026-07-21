@@ -13,6 +13,7 @@ export default function DashboardAsociacion() {
     { id: 5, fecha: "01/07/2026", nombre: "Aporte Suarez Espinosa Ivonne (Febrero Marzo 2026)", valor: 20.00 },
     { id: 6, fecha: "01/07/2026", nombre: "Aporte Tonato Zapata John Jairo (Abril, Mayo Junio 2026)", valor: 30.00 },
     { id: 7, fecha: "06/07/2026", nombre: "Ingreso por Cafetería", valor: 56.19 },
+    { id: 8, fecha: "21/07/2026", nombre: "Aportes socios Junio", valor: 600.00 },
 
   ]);
 
