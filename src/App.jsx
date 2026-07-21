@@ -27,10 +27,11 @@ export default function DashboardAsociacion() {
     { id: 7, fecha: "19/06/2026", nombre: "Flores", valor: 4.00 },
     { id: 8, fecha: "19/06/2026", nombre: "Chupetes", valor: 2.00 },
     { id: 9, fecha: "19/06/2026", nombre: "Hora loca adornos", valor: 8.00 },
-     { id: 10, fecha: "19/06/2026", nombre: "Sonido", valor: 10.00 },
-     { id: 11, fecha: "10/07/2026", nombre: "Compra bebidas eleciones (190)", valor: 44.00 },
-      { id: 12, fecha: "21/07/2026", nombre: "Devolución aportes cobrados en exceso con corte a Junio (Ali Quishpe)", valor: 98.99 },
-
+    { id: 10, fecha: "19/06/2026", nombre: "Sonido", valor: 10.00 },
+    { id: 11, fecha: "10/07/2026", nombre: "Compra bebidas eleciones (190)", valor: 44.00 },
+    { id: 12, fecha: "21/07/2026", nombre: "Devolución aportes cobrados en exceso con corte a Junio (Ali Quishpe)", valor: 98.99 },
+    { id: 13, fecha: "21/07/2026", nombre: "Transferencia interbancaria devolución aportes", valor: 0.41 },
+    { id: 14, fecha: "21/07/2026", nombre: "Cobro cheque por 2.86 por devolución de cheque Aportes Mayo", valor: 2.86 },
 
   ]);
 
