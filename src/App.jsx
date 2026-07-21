@@ -8,7 +8,6 @@ export default function DashboardAsociacion() {
   const [ingresos] = useState([
     { id: 1, fecha: "16/06/2026", nombre: "Aportes Isabel Dávila Junio, Julio, Agosto", valor: 30.00 },
     { id: 2, fecha: "19/06/2026", nombre: "Aportes Darwin Puetate Enero a Junio", valor: 60.00 },
-    /* { id: 3, fecha: "19/06/2026", nombre: "Aportes no socios (1 pendiente)", valor: 36.00 }, */
     { id: 3, fecha: "19/06/2026", nombre: "Aportes no socios", valor: 40.00 },
     { id: 4, fecha: "25/06/2026", nombre: "Evento Futbol Ec vs Alem", valor: 75.05 },
     { id: 5, fecha: "01/07/2026", nombre: "Aporte Suarez Espinosa Ivonne (Febrero Marzo 2026)", valor: 20.00 },
@@ -29,6 +28,7 @@ export default function DashboardAsociacion() {
     { id: 9, fecha: "19/06/2026", nombre: "Hora loca adornos", valor: 8.00 },
      { id: 10, fecha: "19/06/2026", nombre: "Sonido", valor: 10.00 },
      { id: 11, fecha: "10/07/2026", nombre: "Compra bebidas eleciones (190)", valor: 44.00 },
+      { id: 12, fecha: "21/07/2026", nombre: "Devolución aportes cobrados en exceso con corte a Junio (Ali Quishpe)", valor: 98.99 },
 
 
   ]);
