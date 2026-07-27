@@ -14,7 +14,8 @@ export default function DashboardAsociacion() {
     { id: 6, fecha: "01/07/2026", nombre: "Aporte Tonato Zapata John Jairo (Abril, Mayo Junio 2026)", valor: 30.00 },
     { id: 7, fecha: "06/07/2026", nombre: "Ingreso por Cafetería", valor: 56.19 },
     { id: 8, fecha: "21/07/2026", nombre: "Aportes socios Junio", valor: 600.00 },
-    { id: 9, fecha: "22/07/2026", nombre: "Aportes Carmen Romero (Mayo, Junio)", valor: 20.00 },
+    { id: 9, fecha: "22/07/2026", nombre: "Aportes Carmen Romero (Mayo, Junio 2026)", valor: 20.00 },
+    { id: 10, fecha: "27/07/2026", nombre: "Aportes PAGUAY LOPEZ KLEBER RENE (enero a septiembre 2026)", valor: 65.00 },
 
   ]);
 
@@ -33,7 +34,7 @@ export default function DashboardAsociacion() {
     { id: 12, fecha: "21/07/2026", nombre: "Devolución aportes cobrados en exceso con corte a Junio (Ali Quishpe)", valor: 88.99 },
     { id: 13, fecha: "21/07/2026", nombre: "Transferencia interbancaria devolución aportes", valor: 0.41 },
     { id: 14, fecha: "21/07/2026", nombre: "Cobro cheque por 2.86 por devolución de cheque Aportes Mayo", valor: 2.86 },
-    { id: 14, fecha: "25/07/2026", nombre: "Arreglo floral", valor: 20 },
+    { id: 15, fecha: "25/07/2026", nombre: "Arreglo floral", valor: 20 },
 
   ]);
 
@@ -87,7 +88,7 @@ export default function DashboardAsociacion() {
               Asociación anterior entregó fondos de: <span className="fw-semibold">${FONDOS_ANTERIORES.toFixed(2)}</span>
             </p>
             <small className="d-block mt-1" style={{ fontSize: '12px', color: '#6f6f6f' }}>
-              Corte de caja oficial validado al  lunes 06 de julio de 2026 a las 18:03
+              Corte de caja oficial validado al  lunes 27 de julio de 2026 a las 18:03
             </small>
           </div>
           <div className="col-md-4 text-md-end">
