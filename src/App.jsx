@@ -34,7 +34,8 @@ export default function DashboardAsociacion() {
     { id: 12, fecha: "21/07/2026", nombre: "Devolución aportes cobrados en exceso con corte a Junio (Ali Quishpe)", valor: 88.99 },
     { id: 13, fecha: "21/07/2026", nombre: "Transferencia interbancaria devolución aportes", valor: 0.41 },
     { id: 14, fecha: "21/07/2026", nombre: "Cobro cheque por 2.86 por devolución de cheque Aportes Mayo", valor: 2.86 },
-    { id: 15, fecha: "25/07/2026", nombre: "Arreglo floral", valor: 20.00 },
+    { id: 15, fecha: "25/07/2026", nombre: "Arreglo floral hs", valor: 20.00 },
+    { id: 16, fecha: "28/07/2026", nombre: "Arreglo floral vj", valor: 20.00 },
 
   ]);
 
