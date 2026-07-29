@@ -36,6 +36,7 @@ export default function DashboardAsociacion() {
     { id: 14, fecha: "21/07/2026", nombre: "Cobro cheque por 2.86 por devolución de cheque Aportes Mayo", valor: 2.86 },
     { id: 15, fecha: "25/07/2026", nombre: "Arreglo floral hs", valor: 20.00 },
     { id: 16, fecha: "28/07/2026", nombre: "Arreglo floral vj", valor: 20.00 },
+    { id: 17, fecha: "29/07/2026", nombre: "Retiro Cheque rebotado Agencia", valor: 0.70 },
 
   ]);
 
