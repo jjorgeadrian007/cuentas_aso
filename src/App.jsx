@@ -16,7 +16,7 @@ export default function DashboardAsociacion() {
     { id: 8, fecha: "21/07/2026", nombre: "Aportes socios Junio", valor: 600.00 },
     { id: 9, fecha: "22/07/2026", nombre: "Aportes Carmen Romero (Mayo, Junio 2026)", valor: 20.00 },
     { id: 10, fecha: "27/07/2026", nombre: "Aportes PAGUAY LOPEZ KLEBER RENE (enero a septiembre 2026)", valor: 65.00 },
-
+    { id: 11, fecha: "31/07/2026", nombre: "Aportes socios Mayo", valor: 472.35 },
   ]);
 
   const [egresos] = useState([
