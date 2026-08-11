@@ -18,6 +18,7 @@ export default function DashboardAsociacion() {
     { id: 10, fecha: "27/07/2026", nombre: "Aportes PAGUAY LOPEZ KLEBER RENE (enero a septiembre 2026)", valor: 65.00 },
     { id: 11, fecha: "31/07/2026", nombre: "Aportes socios Mayo", valor: 472.35 },
     { id: 12, fecha: "06/08/2026", nombre: "Aportes socios Mayo", valor: 52.50 },
+    { id: 13, fecha: "11/08/2026", nombre: "Aportes Priscila Carrera", valor: 70.00 },
   ]);
 
   const [egresos] = useState([
