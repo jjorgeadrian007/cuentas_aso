@@ -19,6 +19,7 @@ export default function DashboardAsociacion() {
     { id: 11, fecha: "31/07/2026", nombre: "Aportes socios Mayo", valor: 472.35 },
     { id: 12, fecha: "06/08/2026", nombre: "Ingreso por Cafetería", valor: 52.50 },
     { id: 13, fecha: "11/08/2026", nombre: "Aportes Priscila Carrera", valor: 70.00 },
+    { id: 14, fecha: "25/08/2026", nombre: "Aportes Carmen Romero", valor: 10.00 },
   ]);
 
   const [egresos] = useState([
@@ -40,6 +41,7 @@ export default function DashboardAsociacion() {
     { id: 16, fecha: "28/07/2026", nombre: "Arreglo floral vj", valor: 20.00 },
     { id: 17, fecha: "29/07/2026", nombre: "Retiro Cheque rebotado Agencia", valor: 0.70 },
     { id: 18, fecha: "13/08/2026", nombre: "Reserva cena Navideña", valor: 150 },
+    { id: 19, fecha: "19/08/2026", nombre: "Reserva cena Navideña", valor: 1200 },
 
   ]);
 
