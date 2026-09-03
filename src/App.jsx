@@ -44,6 +44,7 @@ export default function DashboardAsociacion() {
     { id: 17, fecha: "29/07/2026", nombre: "Retiro Cheque rebotado Agencia", valor: 0.70 },
     { id: 18, fecha: "13/08/2026", nombre: "Reserva cena Navideña", valor: 150 },
     { id: 19, fecha: "19/08/2026", nombre: "Reserva regalo navidad", valor: 1200 },
+    { id: 20, fecha: "19/08/2026", nombre: "Devolución Aporte Alicia Qhispe Julio", valor: 30.94 },
 
   ]);
 
