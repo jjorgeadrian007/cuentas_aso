@@ -22,6 +22,7 @@ export default function DashboardAsociacion() {
     { id: 14, fecha: "18/08/2026", nombre: "Aportes socios Julio", valor: 630.94 },
     { id: 15, fecha: "20/08/2026", nombre: "Aportes Carmen Romero(Julio 2026)", valor: 10.00 },
     { id: 16, fecha: "10/09/2026", nombre: "Aportes Carmen Romero(Agosto, Septiembre, Octubre 2026)", valor: 30.00 },
+     { id: 17, fecha: "11/09/2026", nombre: "Aportes Carmen Romero(Noviembre, Diciembre 2026)", valor: 20.00 },
     
   ]);
 
