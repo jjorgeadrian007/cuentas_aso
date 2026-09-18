@@ -49,6 +49,7 @@ export default function DashboardAsociacion() {
     { id: 18, fecha: "13/08/2026", nombre: "Reserva cena Navideña", valor: 150 },
     { id: 19, fecha: "19/08/2026", nombre: "Reserva regalo navidad", valor: 1200 },
     { id: 20, fecha: "03/09/2026", nombre: "Devolución Aporte Alicia Quizhpe Julio", valor: 30.94 },
+    { id: 21, fecha: "03/09/2026", nombre: "Devolución Aporte Alicia Quizhpe Agosto", valor: 37.22 },
 
   ]);
 
