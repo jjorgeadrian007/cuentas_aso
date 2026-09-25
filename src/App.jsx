@@ -26,7 +26,7 @@ export default function DashboardAsociacion() {
     { id: 18, fecha: "15/09/2026", nombre: "Aportes Isabel Dávila (Septiembre, Octubre 2026)", valor: 20.00 },
     { id: 19, fecha: "15/09/2026", nombre: "Aportes socios Agosto", valor: 638.15 },
     { id: 20, fecha: "25/09/2026", nombre: "Aportes Daniel Silva (se igualó al año)", valor: 638.15 },
-    { id: 21, fecha: "25/09/2026", nombre: "Ingresos venta de Humitas", valor: 160.50 },
+    { id: 21, fecha: "25/09/2026", nombre: "Ingresos venta de Humitas", valor: 163.25 },
     
   ]);
 
