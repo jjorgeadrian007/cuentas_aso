@@ -25,6 +25,8 @@ export default function DashboardAsociacion() {
     { id: 17, fecha: "11/09/2026", nombre: "Aportes Carmen Romero(Noviembre, Diciembre 2026)", valor: 20.00 },
     { id: 18, fecha: "15/09/2026", nombre: "Aportes Isabel Dávila (Septiembre, Octubre 2026)", valor: 20.00 },
     { id: 19, fecha: "15/09/2026", nombre: "Aportes socios Agosto", valor: 638.15 },
+    { id: 20, fecha: "25/09/2026", nombre: "Aportes Daniel Silva (se igualó al año)", valor: 638.15 },
+    { id: 21, fecha: "25/09/2026", nombre: "Ingresos venta de Humitas", valor: 160.00 },
     
   ]);
 
@@ -50,6 +52,8 @@ export default function DashboardAsociacion() {
     { id: 19, fecha: "19/08/2026", nombre: "Reserva regalo navidad", valor: 1200 },
     { id: 20, fecha: "03/09/2026", nombre: "Devolución Aporte Alicia Quizhpe Julio", valor: 30.94 },
     { id: 21, fecha: "03/09/2026", nombre: "Devolución Aporte Alicia Quizhpe Agosto", valor: 37.22 },
+    { id: 22, fecha: "25/09/2026", nombre: "Humitas", valor: 51.82 },
+    { id: 23, fecha: "25/09/2026", nombre: "Compra gastos insumos cafe, y servir hurmitas", valor: 36.00 },
 
   ]);
 
