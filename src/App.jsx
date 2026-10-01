@@ -56,6 +56,7 @@ export default function DashboardAsociacion() {
     { id: 22, fecha: "25/09/2026", nombre: "Humitas", valor: 51.82 },
     { id: 23, fecha: "25/09/2026", nombre: "Compra gastos insumos cafe, y servir hurmitas", valor: 36.00 },
     { id: 24, fecha: "25/09/2026", nombre: "Arreglo Floral M.M", valor: 20.00 },
+    { id: 24, fecha: "01/10/2026", nombre: "Gastos CD", valor: 10.00 },
   ]);
 
 
