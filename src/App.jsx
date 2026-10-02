@@ -29,7 +29,8 @@ export default function DashboardAsociacion() {
     { id: 21, fecha: "25/09/2026", nombre: "Ingresos venta de Humitas", valor: 163.25 },
     { id: 22, fecha: "30/09/2026", nombre: "Aportes Martha Lagua (se igualó al año)", valor: 34.00 },
     { id: 23, fecha: "02/10/2026", nombre: "Pago Humitas Fabricio", valor: 6.25 },
-    { id: 24, fecha: "02/10/2026", nombre: "Ingreso por Cafeteria Agosto", valor: 20 },
+    { id: 24, fecha: "02/10/2026", nombre: "Ingreso por Cafeteria Agosto", valor: 25.00 },
+    { id: 25, fecha: "02/10/2026", nombre: "Ingreso por Cafeteria Septiembre", valor: 24.60 },
     
   ]);
 
