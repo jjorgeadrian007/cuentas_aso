@@ -32,7 +32,7 @@ export default function DashboardAsociacion() {
     { id: 24, fecha: "02/10/2026", nombre: "Ingreso por Cafeteria Agosto", valor: 25.00 },
     { id: 25, fecha: "02/10/2026", nombre: "Ingreso por Cafeteria Septiembre", valor: 24.60 },
     { id: 26, fecha: "12/10/2026", nombre: "Aporte Darwin Puetate Julio a Diciembre", valor: 60.00 },
-    { id: 27, fecha: "12/10/2026", nombre: "Aporte Darwin Puetate Julio a Diciembre", valor: 520.50 },
+    { id: 27, fecha: "12/10/2026", nombre: "Ingresos paseo Molinuco", valor: 520.50 },
   ]);
 
   const [egresos] = useState([
