@@ -64,7 +64,7 @@ export default function DashboardAsociacion() {
     { id: 26, fecha: "02/10/2026", nombre: "Arreglo Floral E.M", valor: 15.00 },
     { id: 27, fecha: "07/10/2026", nombre: "Pago comida Molinuco", valor: 336.00 },
     { id: 28, fecha: "07/10/2026", nombre: "Pago Aguas", valor:10.25 },
-    { id: 29, fecha: "07/10/2026", nombre: "Pago Transporte", valor:200 },
+    { id: 29, fecha: "07/10/2026", nombre: "Pago Transporte", valor:200.00 },
   ]);
 
 
