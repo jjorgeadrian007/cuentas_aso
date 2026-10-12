@@ -31,7 +31,8 @@ export default function DashboardAsociacion() {
     { id: 23, fecha: "02/10/2026", nombre: "Pago Humitas Fabricio", valor: 6.25 },
     { id: 24, fecha: "02/10/2026", nombre: "Ingreso por Cafeteria Agosto", valor: 25.00 },
     { id: 25, fecha: "02/10/2026", nombre: "Ingreso por Cafeteria Septiembre", valor: 24.60 },
-    
+    { id: 26, fecha: "12/10/2026", nombre: "Aporte Darwin Puetate Julio a Diciembre", valor: 60.00 },
+    { id: 27, fecha: "12/10/2026", nombre: "Aporte Darwin Puetate Julio a Diciembre", valor: 520.50 },
   ]);
 
   const [egresos] = useState([
@@ -61,6 +62,9 @@ export default function DashboardAsociacion() {
     { id: 24, fecha: "25/09/2026", nombre: "Arreglo Floral M.M", valor: 20.00 },
     { id: 25, fecha: "01/10/2026", nombre: "Gastos CD", valor: 10.00 },
     { id: 26, fecha: "02/10/2026", nombre: "Arreglo Floral E.M", valor: 15.00 },
+    { id: 27, fecha: "07/10/2026", nombre: "Pago comida Molinuco", valor: 336.00 },
+    { id: 28, fecha: "07/10/2026", nombre: "Pago Aguas", valor:10.25 },
+    { id: 29, fecha: "07/10/2026", nombre: "Pago Transporte", valor:180 },
   ]);
 
 
