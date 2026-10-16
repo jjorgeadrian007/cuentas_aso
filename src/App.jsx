@@ -36,6 +36,8 @@ export default function DashboardAsociacion() {
     { id: 28, fecha: "14/10/2026", nombre: "Aportes Lady Morales Julio-Agosto.", valor: 20.00 },
     { id: 29, fecha: "16/10/2026", nombre: "Aportes socios Septiembre", valor: 692.46 },
     { id: 30, fecha: "16/10/2026", nombre: "Aporte años anteriores (20 Marco Bravo)", valor: 20.00 },
+    { id: 31, fecha: "16/10/2026", nombre: "TRASNFERENCIAS CHOCLOS", valor: 55.50 },
+    { id: 32, fecha: "16/10/2026", nombre: "EFECTIVO CHOCLOS", valor: 85.00 },
   ]);
 
   const [egresos] = useState([
@@ -69,7 +71,9 @@ export default function DashboardAsociacion() {
     { id: 28, fecha: "07/10/2026", nombre: "Pago Aguas", valor:10.25 },
     { id: 29, fecha: "07/10/2026", nombre: "Pago Transporte", valor:200.00 },
     { id: 30, fecha: "16/10/2026", nombre: "Pago platos choclos", valor:6.65 },
-    { id: 31, fecha: "16/10/2026", nombre: "Choclos", valor:57.00 }
+    { id: 31, fecha: "16/10/2026", nombre: "Choclos", valor:57.00 },
+    { id: 32, fecha: "16/10/2026", nombre: "AJÍ", valor:4.50 },
+    { id: 32, fecha: "16/10/2026", nombre: "GAS", valor:3.50 },
   ]);
 
 
