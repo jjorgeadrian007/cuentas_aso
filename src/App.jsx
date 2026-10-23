@@ -36,7 +36,7 @@ export default function DashboardAsociacion() {
     { id: 28, fecha: "14/10/2026", nombre: "Aportes Lady Morales Julio-Agosto.", valor: 20.00 },
     { id: 29, fecha: "16/10/2026", nombre: "Aportes socios Septiembre", valor: 692.46 },
     { id: 30, fecha: "16/10/2026", nombre: "Aporte años anteriores (20 Marco Bravo)", valor: 20.00 },
-    { id: 31, fecha: "16/10/2026", nombre: "TRASNFERENCIAS CHOCLOS", valor: 55.50 },
+    { id: 31, fecha: "16/10/2026", nombre: "TRASNFERENCIAS CHOCLOS", valor: 63.00 },
     { id: 32, fecha: "16/10/2026", nombre: "EFECTIVO CHOCLOS", valor: 85.00 },
   ]);
 
@@ -74,6 +74,8 @@ export default function DashboardAsociacion() {
     { id: 31, fecha: "16/10/2026", nombre: "Choclos", valor:57.00 },
     { id: 32, fecha: "16/10/2026", nombre: "AJÍ", valor:4.50 },
     { id: 32, fecha: "16/10/2026", nombre: "GAS", valor:3.50 },
+    { id: 33, fecha: "23/10/2026", nombre: "Colada Morada", valor:120.00 },
+    { id: 34, fecha: "23/10/2026", nombre: "Guaguas de pan", valor:437.59 },
   ]);
 
 
