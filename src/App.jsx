@@ -76,6 +76,7 @@ export default function DashboardAsociacion() {
     { id: 32, fecha: "16/10/2026", nombre: "GAS", valor:3.50 },
     { id: 33, fecha: "23/10/2026", nombre: "Colada Morada", valor:120.00 },
     { id: 34, fecha: "23/10/2026", nombre: "Guaguas de pan", valor:437.59 },
+    { id: 35, fecha: "27/10/2026", nombre: "Vasos colada", valor:46.00 },
   ]);
 
 
