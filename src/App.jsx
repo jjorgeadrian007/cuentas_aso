@@ -38,7 +38,7 @@ export default function DashboardAsociacion() {
     { id: 30, fecha: "16/10/2026", nombre: "Aporte años anteriores (20 Marco Bravo)", valor: 20.00 },
     { id: 31, fecha: "16/10/2026", nombre: "TRASNFERENCIAS CHOCLOS", valor: 63.00 },
     { id: 32, fecha: "16/10/2026", nombre: "EFECTIVO CHOCLOS", valor: 85.00 },
-    { id: 33, fecha: "16/10/2026", nombre: "Colada Morada vasos vendidos", valor: 8 },
+    { id: 33, fecha: "16/10/2026", nombre: "Colada Morada vasos vendidos", valor: 12 },
   ]);
 
   const [egresos] = useState([
