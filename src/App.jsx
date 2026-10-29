@@ -38,6 +38,7 @@ export default function DashboardAsociacion() {
     { id: 30, fecha: "16/10/2026", nombre: "Aporte años anteriores (20 Marco Bravo)", valor: 20.00 },
     { id: 31, fecha: "16/10/2026", nombre: "TRASNFERENCIAS CHOCLOS", valor: 63.00 },
     { id: 32, fecha: "16/10/2026", nombre: "EFECTIVO CHOCLOS", valor: 85.00 },
+    { id: 33, fecha: "16/10/2026", nombre: "Colada Morada vasos vendidos", valor: 8 },
   ]);
 
   const [egresos] = useState([
@@ -74,7 +75,7 @@ export default function DashboardAsociacion() {
     { id: 31, fecha: "16/10/2026", nombre: "Choclos", valor:57.00 },
     { id: 32, fecha: "16/10/2026", nombre: "AJÍ", valor:4.50 },
     { id: 32, fecha: "16/10/2026", nombre: "GAS", valor:3.50 },
-    { id: 33, fecha: "23/10/2026", nombre: "Colada Morada", valor:120.00 },
+    { id: 33, fecha: "23/10/2026", nombre: "Ingredienes colada Morada", valor:120.00 },
     { id: 34, fecha: "23/10/2026", nombre: "Guaguas de pan", valor:437.59 },
     { id: 35, fecha: "27/10/2026", nombre: "Vasos colada", valor:46.00 },
   ]);
