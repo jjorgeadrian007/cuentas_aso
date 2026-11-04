@@ -41,6 +41,7 @@ export default function DashboardAsociacion() {
     { id: 33, fecha: "16/10/2026", nombre: "Colada Morada vasos vendidos", valor: 12 },
     { id: 34, fecha: "04/11/2026", nombre: "Aportes Lady Morales SEPTIEMBRE.", valor: 10.00 },
     { id: 35, fecha: "04/11/2026", nombre: "Colada Morada vasos vendidos", valor: 10 },
+    { id: 36, fecha: "04/11/2026", nombre: "Pago choclos Verónica", valor: 1.50 },
   ]);
 
   const [egresos] = useState([
