@@ -40,8 +40,9 @@ export default function DashboardAsociacion() {
     { id: 32, fecha: "16/10/2026", nombre: "EFECTIVO CHOCLOS", valor: 85.00 },
     { id: 33, fecha: "16/10/2026", nombre: "Colada Morada vasos vendidos", valor: 12 },
     { id: 34, fecha: "04/11/2026", nombre: "Aportes Lady Morales SEPTIEMBRE.", valor: 10.00 },
-    { id: 35, fecha: "04/11/2026", nombre: "Colada Morada vasos vendidos", valor: 10 },
+    { id: 35, fecha: "04/11/2026", nombre: "Colada Morada vasos vendidos GP", valor: 10 },
     { id: 36, fecha: "04/11/2026", nombre: "Pago choclos Verónica Farinango", valor: 1.50 },
+    { id: 37, fecha: "04/11/2026", nombre: "Pago choclos Alicita Q", valor: 1.50 },
   ]);
 
   const [egresos] = useState([
@@ -82,6 +83,8 @@ export default function DashboardAsociacion() {
     { id: 34, fecha: "23/10/2026", nombre: "Guaguas de pan", valor:437.59 },
     { id: 35, fecha: "27/10/2026", nombre: "Vasos colada", valor:46.00 },
     { id: 36, fecha: "23/10/2026", nombre: "Elaboración colada Morada", valor:30.00 },
+    { id: 37, fecha: "06/11/2026", nombre: "Devolución Aporte Alicia Quizhpe Septiembre", valor:32.09 },
+    { id: 38, fecha: "06/11/2026", nombre: "Devolución Aporte Klever Paguay Septiembre", valor:70.37 },
 
   ]);
 
