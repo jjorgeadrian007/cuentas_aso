@@ -44,6 +44,7 @@ export default function DashboardAsociacion() {
     { id: 36, fecha: "04/11/2026", nombre: "Pago choclos Verónica Farinango", valor: 1.50 },
     { id: 37, fecha: "04/11/2026", nombre: "Pago choclos Alicita Q", valor: 1.50 },
     { id: 38, fecha: "02/10/2026", nombre: "Ingreso por Cafeteria Octubre", valor: 60.00 },
+    { id: 39, fecha: "02/10/2026", nombre: "Aporte Klever Paguay Octubre y Noviembre", valor: 20.00 },
   ]);
 
   const [egresos] = useState([
