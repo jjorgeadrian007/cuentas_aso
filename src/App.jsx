@@ -84,7 +84,8 @@ export default function DashboardAsociacion() {
     { id: 35, fecha: "27/10/2026", nombre: "Vasos colada", valor:46.00 },
     { id: 36, fecha: "23/10/2026", nombre: "Elaboración colada Morada", valor:30.00 },
     { id: 37, fecha: "06/11/2026", nombre: "Devolución Aporte Alicia Quizhpe Septiembre", valor:32.09 },
-    { id: 38, fecha: "06/11/2026", nombre: "Devolución Aporte Klever Paguay Septiembre", valor:70.37 },
+    { id: 38, fecha: "06/11/2026", nombre: "Devolución Aporte Klever Paguay Agosto", valor:0.93 },
+    { id: 39, fecha: "06/11/2026", nombre: "Devolución Aporte Klever Paguay Septiembre", valor:70.37 },
 
   ]);
 
