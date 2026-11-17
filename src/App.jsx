@@ -46,9 +46,8 @@ export default function DashboardAsociacion() {
     { id: 38, fecha: "02/10/2026", nombre: "Ingreso por Cafeteria Octubre", valor: 60.00 },
     { id: 39, fecha: "02/11/2026", nombre: "Aporte Klever Paguay Octubre y Noviembre", valor: 20.00 },
     { id: 40, fecha: "13/11/2026", nombre: "Aporte Isabel Dávila (Noviembre 2026)", valor: 10.00 },
-    { id: 41, fecha: "13/11/2026", nombre: "Aporte Isabel Dávila (Noviembre 2026)", valor: 10.00 },
-    { id: 42, fecha: "17/11/2026", nombre: "Aporte CALAN MEJIA JERSSON JOAO ($34 - años anteriores)", valor: 34.00 },
-    { id: 43, fecha: "17/11/2026", nombre: "Aporte PEREZ QUIMBIULCO DAISY ESMERALDA ($30 - años anteriores)", valor: 30.00 },
+    { id: 41, fecha: "17/11/2026", nombre: "Aporte CALAN MEJIA JERSSON JOAO ($34 - años anteriores)", valor: 34.00 },
+    { id: 42, fecha: "17/11/2026", nombre: "Aporte PEREZ QUIMBIULCO DAISY ESMERALDA ($30 - años anteriores)", valor: 30.00 },
   ]);
 
   const [egresos] = useState([
