@@ -25,7 +25,7 @@ export default function DashboardAsociacion() {
     { id: 17, fecha: "11/09/2026", nombre: "Aportes Carmen Romero(Noviembre, Diciembre 2026)", valor: 20.00 },
     { id: 18, fecha: "15/09/2026", nombre: "Aportes Isabel Dávila (Septiembre, Octubre 2026)", valor: 20.00 },
     { id: 19, fecha: "15/09/2026", nombre: "Aportes socios Agosto", valor: 638.15 },
-    { id: 20, fecha: "25/09/2026", nombre: "Aportes Daniel Silva (se igualó al año)", valor: 34.00 },
+    { id: 20, fecha: "25/09/2026", nombre: "Aportes SILVA SACON WILLIAM DANIEL ($34 - años anteriores)", valor: 34.00 },
     { id: 21, fecha: "25/09/2026", nombre: "Ingresos venta de Humitas", valor: 163.25 },
     { id: 22, fecha: "30/09/2026", nombre: "Aportes Martha Lagua (se igualó al año)", valor: 34.00 },
     { id: 23, fecha: "02/10/2026", nombre: "Pago Humitas Fabricio", valor: 6.25 },
@@ -35,7 +35,7 @@ export default function DashboardAsociacion() {
     { id: 27, fecha: "12/10/2026", nombre: "Ingresos paseo Molinuco.", valor: 520.50 },
     { id: 28, fecha: "14/10/2026", nombre: "Aportes Lady Morales Julio-Agosto.", valor: 20.00 },
     { id: 29, fecha: "16/10/2026", nombre: "Aportes socios Septiembre", valor: 692.46 },
-    { id: 30, fecha: "16/10/2026", nombre: "Aporte años anteriores (20 Marco Bravo)", valor: 20.00 },
+    { id: 30, fecha: "16/10/2026", nombre: "Aporte PEREZ BRAVO HERRERA MARCO PATRICIO ($20 - años anteriores)", valor: 20.00 },
     { id: 31, fecha: "16/10/2026", nombre: "TRASNFERENCIAS CHOCLOS", valor: 63.00 },
     { id: 32, fecha: "16/10/2026", nombre: "EFECTIVO CHOCLOS", valor: 85.00 },
     { id: 33, fecha: "16/10/2026", nombre: "Colada Morada vasos vendidos", valor: 12 },
@@ -46,6 +46,9 @@ export default function DashboardAsociacion() {
     { id: 38, fecha: "02/10/2026", nombre: "Ingreso por Cafeteria Octubre", valor: 60.00 },
     { id: 39, fecha: "02/11/2026", nombre: "Aporte Klever Paguay Octubre y Noviembre", valor: 20.00 },
     { id: 40, fecha: "13/11/2026", nombre: "Aporte Isabel Dávila (Noviembre 2026)", valor: 10.00 },
+    { id: 41, fecha: "13/11/2026", nombre: "Aporte Isabel Dávila (Noviembre 2026)", valor: 10.00 },
+    { id: 42, fecha: "17/11/2026", nombre: "Aporte CALAN MEJIA JERSSON JOAO ($34 - años anteriores)", valor: 34.00 },
+    { id: 43, fecha: "17/11/2026", nombre: "Aporte PEREZ QUIMBIULCO DAISY ESMERALDA ($30 - años anteriores)", valor: 30.00 },
   ]);
 
   const [egresos] = useState([
