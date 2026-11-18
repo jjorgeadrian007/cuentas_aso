@@ -48,6 +48,9 @@ export default function DashboardAsociacion() {
     { id: 40, fecha: "13/11/2026", nombre: "Aporte Isabel Dávila (Noviembre 2026)", valor: 10.00 },
     { id: 41, fecha: "17/11/2026", nombre: "Aporte CALAN MEJIA JERSSON JOAO ($34 - años anteriores)", valor: 34.00 },
     { id: 42, fecha: "17/11/2026", nombre: "Aporte PEREZ QUIMBIULCO DAISY ESMERALDA ($30 - años anteriores)", valor: 30.00 },
+    { id: 43, fecha: "17/11/2026", nombre: "Aporte MALDONADO DUQUE EDGAR DAVID ($34 - años anteriores)", valor: 34.00 },
+    { id: 44, fecha: "17/11/2026", nombre: "Venta hornado Maldonado David", valor: 5.00 },
+    { id: 45, fecha: "18/11/2026", nombre: "Aporte QUISHPE CONTENTO CARLOS MARCELO ($34 - años anteriores)", valor: 34.00 },
   ]);
 
   const [egresos] = useState([
@@ -91,7 +94,7 @@ export default function DashboardAsociacion() {
     { id: 37, fecha: "06/11/2026", nombre: "Devolución Aporte Alicia Quizhpe Septiembre", valor:32.09 },
     { id: 38, fecha: "06/11/2026", nombre: "Devolución Aporte Klever Paguay Agosto", valor:0.93 },
     { id: 39, fecha: "06/11/2026", nombre: "Devolución Aporte Klever Paguay Septiembre", valor:70.37 },
-
+    
   ]);
 
 
