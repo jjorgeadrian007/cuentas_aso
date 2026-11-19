@@ -35,7 +35,7 @@ export default function DashboardAsociacion() {
     { id: 27, fecha: "12/10/2026", nombre: "Ingresos paseo Molinuco.", valor: 520.50 },
     { id: 28, fecha: "14/10/2026", nombre: "Aportes Lady Morales Julio-Agosto.", valor: 20.00 },
     { id: 29, fecha: "16/10/2026", nombre: "Aportes socios Septiembre", valor: 692.46 },
-    { id: 30, fecha: "16/10/2026", nombre: "Aporte PEREZ BRAVO HERRERA MARCO PATRICIO ($20 - años anteriores)", valor: 20.00 },
+    { id: 30, fecha: "16/10/2026", nombre: "Aporte BRAVO HERRERA MARCO PATRICIO ($20 - años anteriores)", valor: 20.00 },
     { id: 31, fecha: "16/10/2026", nombre: "TRASNFERENCIAS CHOCLOS", valor: 63.00 },
     { id: 32, fecha: "16/10/2026", nombre: "EFECTIVO CHOCLOS", valor: 85.00 },
     { id: 33, fecha: "16/10/2026", nombre: "Colada Morada vasos vendidos", valor: 12 },
@@ -47,10 +47,13 @@ export default function DashboardAsociacion() {
     { id: 39, fecha: "02/11/2026", nombre: "Aporte Klever Paguay Octubre y Noviembre", valor: 20.00 },
     { id: 40, fecha: "13/11/2026", nombre: "Aporte Isabel Dávila (Noviembre 2026)", valor: 10.00 },
     { id: 41, fecha: "17/11/2026", nombre: "Aporte CALAN MEJIA JERSSON JOAO ($34 - años anteriores)", valor: 34.00 },
-    { id: 42, fecha: "17/11/2026", nombre: "Aporte PEREZ QUIMBIULCO DAISY ESMERALDA ($30 - años anteriores)", valor: 30.00 },
+    { id: 42, fecha: "17/11/2026", nombre: "Aporte PEREZ QUIMBIULCO DAISY ESMERALDA ($34 - años anteriores)", valor: 34.00 },
     { id: 43, fecha: "17/11/2026", nombre: "Aporte MALDONADO DUQUE EDGAR DAVID ($34 - años anteriores)", valor: 34.00 },
-    { id: 44, fecha: "17/11/2026", nombre: "Venta hornado Maldonado David", valor: 5.00 },
-    { id: 45, fecha: "18/11/2026", nombre: "Aporte QUISHPE CONTENTO CARLOS MARCELO ($34 - años anteriores)", valor: 34.00 },
+    { id: 44, fecha: "18/11/2026", nombre: "Aporte QUISHPE CONTENTO CARLOS MARCELO ($34 - años anteriores)", valor: 34.00 },
+    { id: 45, fecha: "19/11/2026", nombre: "Aportes socios Octubre", valor: 698.04 },
+    { id: 46, fecha: "19/11/2026", nombre: "Aporte BRAVO HERRERA MARCO PATRICIO ($14 - años anteriores)", valor: 14.00 },
+    { id: 47, fecha: "19/11/2026", nombre: "Aporte Suarez Espinosa Ivonne ($50 - Abril -Agosto 2026)", valor: 50.00 },
+    { id: 48, fecha: "02/11/2026", nombre: "Aporte Quimis Abel Linder ABRIL A JULIO", valor: 40.00 },
   ]);
 
   const [egresos] = useState([
@@ -94,6 +97,8 @@ export default function DashboardAsociacion() {
     { id: 37, fecha: "06/11/2026", nombre: "Devolución Aporte Alicia Quizhpe Septiembre", valor:32.09 },
     { id: 38, fecha: "06/11/2026", nombre: "Devolución Aporte Klever Paguay Agosto", valor:0.93 },
     { id: 39, fecha: "06/11/2026", nombre: "Devolución Aporte Klever Paguay Septiembre", valor:70.37 },
+    { id: 40, fecha: "19/09/2026", nombre: "Devolución Aporte Alicia Quizhpe Octubre", valor: 64.62 },
+    { id: 41, fecha: "19/09/2026", nombre: "Devolución Aporte Quimis Abel Linder Octubre", valor: 43.42 },
     
   ]);
 
