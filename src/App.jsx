@@ -99,8 +99,9 @@ export default function DashboardAsociacion() {
     { id: 37, fecha: "06/11/2026", nombre: "Devolución Aporte Alicia Quizhpe Septiembre", valor:32.09 },
     { id: 38, fecha: "06/11/2026", nombre: "Devolución Aporte Klever Paguay Agosto", valor:0.93 },
     { id: 39, fecha: "06/11/2026", nombre: "Devolución Aporte Klever Paguay Septiembre", valor:70.37 },
-    { id: 40, fecha: "19/09/2026", nombre: "Devolución Aporte Alicia Quizhpe Octubre", valor: 64.62 },
-    { id: 41, fecha: "19/09/2026", nombre: "Devolución Aporte Quimis Abel Linder Octubre", valor: 43.42 },
+    { id: 40, fecha: "19/11/2026", nombre: "Devolución Aporte Alicia Quizhpe Octubre", valor: 64.62 },
+    { id: 41, fecha: "19/11/2026", nombre: "Devolución Aporte Quimis Abel Linder Octubre", valor: 43.42 },
+    { id: 42, fecha: "23/11/2026", nombre: "Pago 70% Regalos", valor: 497.00 },
     
   ]);
 
