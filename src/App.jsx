@@ -53,7 +53,8 @@ export default function DashboardAsociacion() {
     { id: 45, fecha: "19/11/2026", nombre: "Aportes socios Octubre", valor: 698.04 },
     { id: 46, fecha: "19/11/2026", nombre: "Aporte BRAVO HERRERA MARCO PATRICIO ($14 - años anteriores)", valor: 14.00 },
     { id: 47, fecha: "19/11/2026", nombre: "Aporte Suarez Espinosa Ivonne ($50 - Abril -Agosto 2026)", valor: 50.00 },
-    { id: 48, fecha: "02/11/2026", nombre: "Aporte Quimis Abel Linder ABRIL A JULIO", valor: 40.00 },
+    { id: 48, fecha: "19/11/2026", nombre: "Aporte Quimis Abel Linder ABRIL A JULIO", valor: 40.00 },
+    { id: 49, fecha: "24/11/2026", nombre: "DAVID SAMANIEGO COMPRA CHOCLO Y HUMITA", valor: 3.00 },
   ]);
 
   const [egresos] = useState([
