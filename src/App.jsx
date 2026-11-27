@@ -104,6 +104,7 @@ export default function DashboardAsociacion() {
     { id: 41, fecha: "19/11/2026", nombre: "Devolución Aporte Quimis Abel Linder Octubre", valor: 43.42 },
     { id: 42, fecha: "23/11/2026", nombre: "Pago 70% Regalos", valor: 497.00 },
     { id: 43, fecha: "24/11/2026", nombre: "Pago 100% Cena 73 personas", valor: 1820.00 },
+    { id: 44, fecha: "27/11/2026", nombre: "Pago 100% Regalos 2", valor: 1041.99 },
     
   ]);
 
